@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2012 WIMM Labs Incorporated -->
+<resources>
+    <string name="app_name">AccelerometerDemo</string>
+    <string name="prompt">"Shake to change the background color."</string>
+</resources>
